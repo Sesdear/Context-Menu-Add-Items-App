@@ -24,9 +24,13 @@
 1 - win + r regedit
 
 2 - type in the path string - if you add to folder: \HKEY_CLASSES_ROOT\Folder\shell
+
                                             for all files: \HKEY_CLASSES_ROOT\*\shell
+                                            
                                             desktop: \HKEY_CLASSES_ROOT\Directory\Background\shell
+                                            
                                             drive: \HKEY_CLASSES_ROOT\Drive\shell
+                                            
                                             
 3 - Press del
 
