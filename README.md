@@ -23,9 +23,11 @@
 ### How to delete
 1 - win + r regedit
 
-2 - type in the path string - if you add to folder: \HKEY_CLASSES_ROOT\Folder\shell
+2 - type in the path string - if you add to 
 
                                             for all files: \HKEY_CLASSES_ROOT\*\shell
+
+                                            folder: \HKEY_CLASSES_ROOT\Folder\shell
                                             
                                             desktop: \HKEY_CLASSES_ROOT\Directory\Background\shell
                                             
